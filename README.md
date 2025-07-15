@@ -1,4 +1,4 @@
-# Invoice Reconciliation Automation with Python
+# Invoice Automation with Python
 
 This Python script automates the process of updating values across multiple Excel-based Sales Order (SO) files using a centralized source file. It was originally developed to streamline a repetitive manual workflow in the finance operations team, improving accuracy and saving time.
 
